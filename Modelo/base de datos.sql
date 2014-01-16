@@ -41,6 +41,8 @@ USE taxServices;
       fechaVenta date,
       tipoRegistro enum('AFG','EFILE','EFILEDP','ITIN') not null,
       tiempoRetorno datetime,
+      valor decimal(9,2) NOT null,
+      comision decimal(9,2) NOT null,
       observacion text,     
       equipo varchar(45),
       registro timestamp  default current_timestamp on update current_timestamp,

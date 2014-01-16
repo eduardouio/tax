@@ -73,7 +73,7 @@
     <Import Include="System.Xml.Linq" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Modelo.vb" />
+    <Compile Include="BaseDatos.vb" />
     <Compile Include="modeloException.vb" />
     <Compile Include="My Project\AssemblyInfo.vb" />
     <Compile Include="My Project\Application.Designer.vb">
