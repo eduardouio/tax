@@ -1,36 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <ClassDiagram MajorVersion="1" MinorVersion="1">
-  <Class Name="modelo.Modelo">
-    <Position X="5.75" Y="0.5" Width="3.5" />
+  <Class Name="modelo.BaseDatos">
+    <Position X="3" Y="0.5" Width="2.25" />
     <TypeIdentifier>
-      <HashCode>AAJAAEAAAAgAAkgAAAIAgAAAIhAAgARBAAAAAIgAABA=</HashCode>
-      <FileName>Modelo.vb</FileName>
+      <HashCode>AAACAAAgAIAAAAAAQAAAAAQIgIAAAAAACgAEAAAAAAA=</HashCode>
+      <FileName>BaseDatos.vb</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="modelo.modeloException">
-    <Position X="3" Y="0.5" Width="1.5" />
+    <Position X="5.5" Y="0.5" Width="1.75" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
       <FileName>modeloException.vb</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="modelo.My.MySettings">
-    <Position X="0.5" Y="0.75" Width="1.5" />
-    <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
-    </TypeIdentifier>
-  </Class>
-  <Module Name="modelo.My.Resources.Resources">
-    <Position X="2.5" Y="2.5" Width="1.5" />
-    <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
-    </TypeIdentifier>
-  </Module>
-  <Module Name="modelo.My.MySettingsProperty">
-    <Position X="0.5" Y="2.75" Width="1.5" />
-    <TypeIdentifier>
-      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
-    </TypeIdentifier>
-  </Module>
   <Font Name="Segoe UI" Size="9" />
 </ClassDiagram>
