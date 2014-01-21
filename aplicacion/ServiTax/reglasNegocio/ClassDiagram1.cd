@@ -1,0 +1,57 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="reglasNegocio.Coustomer">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAIAGEAEQAAAAACEAAAAAAAAACAAAgAAAASCAAAAA=</HashCode>
+      <FileName>Coustomer.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="reglasNegocio.Processed">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAAwCBEAAIABAAAAAAAAAAAAAAAAAgAAQAAAAAAAo=</HashCode>
+      <FileName>Processed.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="reglasNegocio.Refund">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAEABAABAAAAQCACQEAAAABAAAAAAAAAAACAA=</HashCode>
+      <FileName>Refund.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="reglasNegocio.reglasNegocioException">
+    <Position X="11.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>reglasNegocioException.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="reglasNegocio.Sale">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEIQgCBCEAAgAAAAgCAAAAEAAAABABgAgQAQoAAAAI=</HashCode>
+      <FileName>Sale.vb</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="reglasNegocio.My.MySettings" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAIAAAAAABAAAAAAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Class>
+  <Module Name="reglasNegocio.My.Resources.Resources" Collapsed="true">
+    <Position X="2.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAAAAAAAIA=</HashCode>
+    </TypeIdentifier>
+  </Module>
+  <Module Name="reglasNegocio.My.MySettingsProperty" Collapsed="true">
+    <Position X="0.5" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+    </TypeIdentifier>
+  </Module>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

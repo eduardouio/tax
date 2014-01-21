@@ -73,11 +73,17 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="clienteException.vb" />
-    <Compile Include="Form1.vb">
+    <Compile Include="coustomer.vb">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.vb">
-      <DependentUpon>Form1.vb</DependentUpon>
+    <Compile Include="coustomer.Designer.vb">
+      <DependentUpon>coustomer.vb</DependentUpon>
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="LoginForm1.Designer.vb">
+      <DependentUpon>LoginForm1.vb</DependentUpon>
+    </Compile>
+    <Compile Include="LoginForm1.vb">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="My Project\AssemblyInfo.vb" />
@@ -95,16 +101,40 @@
       <DependentUpon>Settings.settings</DependentUpon>
       <DesignTimeSharedInput>True</DesignTimeSharedInput>
     </Compile>
+    <Compile Include="processed.Designer.vb">
+      <DependentUpon>processed.vb</DependentUpon>
+    </Compile>
+    <Compile Include="processed.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="refound.Designer.vb">
+      <DependentUpon>refound.vb</DependentUpon>
+    </Compile>
+    <Compile Include="refound.vb">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="sale.Designer.vb">
+      <DependentUpon>sale.vb</DependentUpon>
+    </Compile>
+    <Compile Include="sale.vb">
+      <SubType>Form</SubType>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.vb</DependentUpon>
+    <EmbeddedResource Include="coustomer.resx">
+      <DependentUpon>coustomer.vb</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="LoginForm1.resx">
+      <DependentUpon>LoginForm1.vb</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="My Project\Resources.resx">
       <Generator>VbMyResourcesResXFileCodeGenerator</Generator>
       <LastGenOutput>Resources.Designer.vb</LastGenOutput>
       <CustomToolNamespace>My.Resources</CustomToolNamespace>
       <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="sale.resx">
+      <DependentUpon>sale.vb</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <ItemGroup>
